@@ -1,7 +1,7 @@
 #pobranie od użytkownika 12 elementow tablicy
-array = [1,2,3,4,5,6,7,8,9,10,11,12]
-#for a in range(12):
-#    array.append(int(input()))
+array = []
+for a in range(12):
+    array.append(int(input()))
 
 #a) wypisanie wszystkich elementow listy
 for a2 in range(12):
